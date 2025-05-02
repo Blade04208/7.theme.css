@@ -1591,6 +1591,10 @@ div[aria-hidden="true"][style="height: 84px;"] {
 
   .avatarStack__44b0c {
     background-image: url(https://blade04208.github.io/7.theme.css/src/pfp.png);
+    background-size: contain!important;
+    >img {
+      display: none!important;
+    }
   }
 }
 
